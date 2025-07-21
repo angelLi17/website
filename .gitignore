@@ -1,1 +1,9 @@
-./.replit.*
+./.replit
+./.replit*
+./.replitcache
+*/.replit
+*/replit.*
+*/replit*
+*/replitcache
+*/replit.nix
+*/replit.backup
