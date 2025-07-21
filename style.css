@@ -84,6 +84,10 @@ ul {
   /* margin: 10px */
 }
 
+.right {
+  float: right; /* how do i put less space between the icons sobbing */
+}
+
 li {
   display: inline;
 }
@@ -98,4 +102,9 @@ li a {
 
 li a:hover {
   text-decoration: underline overline;;
+}
+
+.icon {
+  width: 25px;
+  height: 25px;
 }
