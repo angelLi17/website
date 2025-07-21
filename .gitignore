@@ -25,3 +25,11 @@ replit*
 replitcache
 replit.nix
 replit.backup
+
+replit.*
+replit*
+replit
+.replitcache
+replit.nix
+.replit.backup
+.replit
