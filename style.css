@@ -61,16 +61,16 @@ h2 {
 p#blog {
   color: #2c2e58;
 }
+p.phome {
+  text-align: center;
+  color: #fffdeb;
+}
 
 p, p a, p ol, p ol li {
   color: #2c2e58;
   font-family: 'Lato', Lato, monospace;
   /* text-align: center; */
   font-size: 20px;
-}
-
-.phome {
-  text-align: center;
 }
 
 /* STYLE IMAGES */
